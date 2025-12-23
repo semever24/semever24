@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Kubernetes, AWS, Terraform, CI/CD, Python.**
 
-- 📫 How to reach me- **senthilkumarrajan1209@gmail.com**
+- 📫 How to reach me **senthilkumarrajan1209@gmail.com**
 
 - ⚡ Fun fact: **I don’t run , troubleshooting is my cardio 🏃‍♂️💻**
 
