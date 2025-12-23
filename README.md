@@ -2,17 +2,17 @@
 
 ### Senior DevOps & SRE Engineer
 
-- 🔭 I'm currently working on **Kubernetes, AWS, Terraform, CI/CD, Python.**
+- 🔭 I'm currently working as **DevOps Engineer with 8+ years of experience.**
 
-- 👯 I'm looking to collaborate on **Open-source DevOps projects related to Kubernetes, Cloud automation and CI/CD pipelines.**
+- 🤝 I'm looking for help with **Job opportunities and Freelance projects.**
 
-- 🤝 I'm looking for help with **DevOps job opportunities and freelance projects involving Kubernetes, AWS, Terraform, CI/CD and Python.**
+- 👯 I'm looking to collaborate on **Open-source DevOps projects.**
 
 - 💬 Ask me about **Kubernetes, AWS, Terraform, CI/CD, Python.**
 
-- 📫 How to reach me **senthilkumarrajan1209@gmail.com**
+- 📫 How to reach me- **senthilkumarrajan1209@gmail.com**
 
-- ⚡ Fun fact **I don’t run , troubleshooting is my cardio 🏃‍♂️💻**
+- ⚡ Fun fact: **I don’t run , troubleshooting is my cardio 🏃‍♂️💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
