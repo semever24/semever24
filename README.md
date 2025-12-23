@@ -2,13 +2,9 @@
 
 ### Senior DevOps & SRE Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semever24&label=Profile views&color=0e75b6&style=flat" alt="semever24" /> </p>
-
 - 🔭 I'm currently working on **Kubernetes, AWS, Terraform, CI/CD, Python.**
 
-- 👯 I'm looking to collaborate on **Open-source DevOps projects related to Kubernetes, Cloud automation and CI/CD pipelines.
-
-**
+- 👯 I'm looking to collaborate on **Open-source DevOps projects related to Kubernetes, Cloud automation and CI/CD pipelines.**
 
 - 🤝 I'm looking for help with **DevOps job opportunities and freelance projects involving Kubernetes, AWS, Terraform, CI/CD and Python.**
 
