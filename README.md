@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **senthilkumarrajan1209@gmail.com**
 
-- ⚡ Fun fact: **I don’t run , troubleshooting is my cardio 🏃‍♂️💻**
+- ⚡ Fun fact: **I don’t run, troubleshooting is my cardio 🏃‍♂️💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
