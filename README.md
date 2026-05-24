@@ -2,7 +2,7 @@
 
 ### Senior DevOps & SRE Engineer
 
-- 🔭 I'm currently working as **DevOps Engineer with 8+ years of experience.**
+- 🔭 I'm currently working as **DevOps Engineer with 8.5+ years of experience.**
 
 - 🤝 I'm looking for help with **Job opportunities and Freelance projects.**
 
